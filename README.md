@@ -9,8 +9,9 @@ Rashmi Thota
 * Eclipse  
 * Databases-/Oracle/Sql  
 ------------------------------------------------------------------------------------------------
-####  How to Run a Project   
-* Clone the repo of this project 
-* Open the Project in eclipse  and then in a command prompt run mvn clean install 
-* And then run  spring-boot :run 
-* Project will execute successfully
+####  Steps to import the project into workspace:   
+* Go to File > Import > Maven > Import existing Maven Projects , and browse to the folder containing your pom.xml.
+------------------------------------------------------------------------------------------------
+#### Steps to check the O/P: 
+* open a browser tab at http://localhost:8080/api/v1/weather/cityOrZip
+* Alternatively use this url http://localhost:8080/api/v1/weather/cityOrZip
