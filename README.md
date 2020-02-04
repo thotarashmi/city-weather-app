@@ -14,4 +14,3 @@ Rashmi Thota
 ------------------------------------------------------------------------------------------------
 #### Steps to check the O/P: 
 * open a browser tab at http://localhost:8080/api/v1/weather/cityOrZip
-* Alternatively use this url http://localhost:8080/api/v1/weather/cityOrZip
